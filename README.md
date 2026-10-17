@@ -1,16 +1,28 @@
 ## Hi there 👋
 
-<!--
-**trashlandia/trashlandia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+all poetry writing, game artwork, photos, and names",
+            "were based off real world characters and made by Bryan Alexander Utesch",
+            "",
+            "game was based from conversations between Bryan and Thomas",
+            "Thomas created the original model structure code",
+            "he is The Best",
+            "",
+            "NOW GO CLEAN UP TRASH IN REAL LIFE!",
+            "",
+            "",
+            "Animated player and npc sprites made using the online tool by:",
+            "Sprites by: Johannes Sjölund (wulax), Michael Whitlock (bigbeargames),",
+            "Matthew Krohn (makrohn), Nila122, David Conway Jr. (JaidynReiman),",
+            "Carlo Enrico Victoria (Nemisys), Thane Brimhall (pennomi), laetissima, bluecarrot16, ",
+            "Luke Mehl, Benjamin K. Smith (BenCreating), MuffinElZangano, Durrani, kheftel,",
+            "Stephen Challener (Redshrike), William.Thompsonj, Marcel van de Steeg (MadMarcel),",
+            "TheraHedwig, Evert, Pierre Vigier (pvigier), Eliza Wyatt (ElizaWy), Johannes Sjölund (wulax),",
+            "Sander Frenken (castelonia), dalonedrau, Lanea Zimmerman (Sharm), Manuel Riecke (MrBeast), ",
+            "Barbara Riviera, Joe White, Mandi Paugh, Shaun Williams, Daniel Eddeland (daneeklu), ",
+            "Emilio J. Sanchez-Sierra, drjamgo, gr3yh47, tskaufma, Fabzy, Yamilian, Skorpio, kheftel, ",
+            "Tuomo Untinen (reemax), Tracy, thecilekli, LordNeo, Stafford McIntyre, PlatForge project, ",
+            "DCSS authors, DarkwallLKE, Charles Sanchez (CharlesGabriel), Radomir Dopieralski, macmanmatty, ",
+            "Cobra Hubbard (BlueVortexGames), Inboxninja, kcilds/Rocetti/Eredah, Napsio (Vitruvian Studio),",
+            "The Foreman, AntumDeluge - Sprites contributed as part of the Liberated Pixel Cup project ",
+            "from OpenGameArt.org: http://opengameart.org/content/lpc-collection ",
+            "Creative Commons Attribution-ShareAlike 3.0 (CC-BY-SA 3.0)",
